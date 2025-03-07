@@ -1,0 +1,509 @@
+#main{
+height: 280vh;
+width: 100vw;
+padding: 0;
+margin: 0;
+background-color: white;
+}
+#background{
+height: 64vh;
+width: 100vw;
+background-color: white;
+background-image: url('images/background\ image.webp'); 
+}
+#navbar{
+height: 10vh;
+width:100vw ;
+background-color:aliceblue;
+display: flex;
+background-color:transparent;
+
+}
+#get{
+height: 10vh;
+width: 50vw;
+padding-top: 3vh;
+padding-left: 8vw; 
+font-size: medium;
+color: white;
+background-color: transparent
+
+
+}
+#invester{
+height: 10vh;
+width: 12vw;
+padding-top: 3vh;
+background-color: rgb(206, 118, 17);
+font-size:large;
+color: white;
+text-align: center;
+background-color: transparent
+
+}
+#add{
+height: 10vh;
+width: 12vw;
+padding-top: 3vh;
+background-color: rgb(214, 205, 255);
+font-size: large;
+color: white;
+text-align: center;
+background-color: transparent
+
+
+}
+#login{
+height: 10vh;
+width: 12vw;
+padding-top: 3vh;
+background-color: rgb(22, 238, 105);
+font-size: large;
+color: white;
+text-align: center;
+background-color: transparent
+
+
+
+}
+#sign{
+height: 10vh;
+width: 14vw;
+padding-top: 3vh;
+background-color: rgb(255, 205, 238);
+font-size: large;
+color: white;
+text-align: center;
+background-color: transparent
+}
+#Zomato{
+height: 15vh;
+width: 100vw;
+padding-left: 35vw;
+padding-top: 4vh;
+background-color: transparent
+}
+#discover{
+height:10vh ;
+width: 100 vw;
+color: white;
+background-color: transparent;
+font-size: xx-large;
+padding-left: 50vh;
+}
+#search-bar{
+height: 9vh;
+width: 60vw;
+margin-left: 30vh;
+display: flex;
+border-radius: 2vh;
+background-color:white;
+padding-left: 5vh;
+align-items: center;
+justify-content: center;
+font: xx-large
+}
+#input{
+height: 8vh;
+width: 55vw;
+font-size:large;
+background-color: white;
+border-radius: 2vh;
+margin-right: 9vh;
+
+}
+#sbutton{
+height: 8vh;
+width: 10vw;
+background-color:transparent;
+padding-top: 4vh;
+border-color: transparent;
+padding-right: 6vh;
+padding-left:6vh ;
+border: none;
+}
+#input{
+border: 0cap;
+
+}
+#button{
+border:none;
+}
+#menu{
+height: 12vh;
+width: 100vw;
+background-color:white;
+font-size:xx-large;
+color: black;
+padding-left: 20vh;
+padding-top: 10vh;
+}
+#cat{
+height: 24vh;
+width: 100vw;
+background-color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+justify-content: space-between;
+
+}
+#one{
+height: 24vh;
+width: 15vw;
+background-color: white;
+justify-content: center;
+
+}
+
+#two{
+height: 24vh;
+width: 15vw;
+background-color: white;
+}
+#three{
+height: 24vh;
+width: 15vw;
+background-color: white;
+}
+#four{
+height: 24vh;
+width: 15vw;
+background-color: white;
+}
+#five{
+height: 24vh;
+width: 15vw;
+background-color: white;
+}
+#six{
+height: 24vh;
+width: 15vw;
+background-color: white;
+}
+#items{
+height: 8vh;
+width: 100vw;
+display: flex;
+background-color: transparent;
+
+}
+#biryani{
+height: 8vh;
+width: 16vw;
+background-color:transparent;
+padding-left: 7vh;
+font-size: larger;
+}
+#thali{
+height: 8vh;
+width: 16vw;
+padding-left:10vw;
+background-color:transparent;
+font-size: larger;
+}
+#Chicken{
+height: 8vh;
+width: 16vw;
+padding-left: 8vw;
+background-color:transparent;
+font-size: larger;
+}
+
+#cake{
+height: 8vh;
+width: 16vw;
+padding-left:8vw;
+background-color:transparent;
+font-size: larger;
+}
+
+#paneer{
+height: 8vh;
+width: 16vw; 
+font-size: larger;
+padding-left: 7vw;
+background-color: transparent;
+}
+
+#roll{
+height: 8vh;
+width: 16vw;
+padding-left: 8vw;
+background-color:transparent;
+font-size: larger;
+
+}
+#app{
+height: 60vh;
+width: 100vw;
+background-color: white;
+padding: 0;
+margin: 0;
+display: flex;
+
+}
+#mobile{
+height: 60vh;
+width: 50vw;
+background-color: white;
+ 
+
+
+}
+
+#phone{
+height: 40vh;
+width: 15vw;
+background-color: white;
+padding-left: 25vw;
+padding-top: 13vh;
+}
+#right_app{
+height: 60vh;
+width: 30vw;
+background-color: white; 
+}
+#textget{
+height: 10vh;
+width: 30vw;
+background-color: white;
+font-size:7vh
+}
+#links{
+height: 10vh;
+width: 30vw;
+font-size: large;
+background-color: white;
+}
+#radio{
+height: 5vh;
+width: 30vw;
+display: flex;
+background-color: white
+}
+#emailorphone{
+height: 10vh;
+width: 50vw;
+padding-top: 2vh;
+background-color: white
+}
+#button2{
+height: 8vh;
+width: 20vh;
+background-color: red;
+color: white;
+border-radius: 1vh;
+}
+#input1{
+height: 7vh;
+width: 46vh;
+border-radius: 1vh;
+border-color: red;
+}
+#download-app-from{
+height: 5vh;
+width: 30vw;
+padding-top: 2vh;
+background-color:white;
+}
+#dphotos{
+height: 10vh;
+width: 30vw;
+background-color: white;
+
+}
+#explore{
+height: 10vh;
+width: 100vw;
+background-color: white;
+font-size: 6vh;
+padding-left: 9vw;
+}
+
+#textboxes{
+height: 60vh;
+width: 100vw;
+padding-left: 17vh;
+background-color:white;
+   
+}
+
+#boxes1{
+height: 12vh;
+width: 85vw;
+background-color: white;
+margin-bottom: 2vh;
+border-radius: 2vh;
+border-width: 1px;
+border-style: solid;
+border-color:grey;
+font-size:x-large;
+padding-left: 2vh;
+display: flex;
+}
+
+#boxes2{
+height: 12vh;
+width: 85vw;
+background-color:white;
+border-radius: 2vh;
+border-style: solid;
+border-width: 1px;
+border-color: grey;
+font-size:x-large;
+
+
+display: flex;
+
+}
+#boxes3{
+height: 12vh;
+width: 85vw;
+background-color: white;
+border-style: solid;
+border-radius: 2vh;
+border-width: 1px;
+border-color: grey;
+font-size:x-large;
+padding-left: 2vh;
+margin-bottom: 2vh;
+display: flex;
+
+    
+}
+#boxes4{
+height: 12vh;
+width: 85vw;
+background-color: white;
+border-style: solid;
+border-radius: 2vh;
+border-width: 1px;
+border-color: grey;
+font-size:x-large;
+padding-bottom: 2vh;
+display: flex;
+
+
+
+    
+}
+#text1{
+ height:5vh ;
+ width: 80vw;
+ padding-top: 4vh;
+ background-color:white;
+
+}
+#text2{
+ height:5vh ;
+ width: 80vw;
+ padding-top: 4vh;
+ background-color: burlywood;
+
+}
+#text3{
+ height:5vh ;
+ width: 80vw;
+ padding-top: 4vh;
+ background-color: burlywood;
+
+}
+#text4{
+ height:5vh ;
+ width: 80vw;
+ padding-top: 4vh;
+ background-color: burlywood;
+
+}
+#arrow1{
+height: 7vh;
+width: 3vw;
+background-color: white;
+padding-top: 5vh;
+}
+#arrow2{
+height: 7vh;
+width: 3vw;
+background-color: white;
+padding-top: 5vh;
+}
+
+#arrow3{
+height: 7vh;
+width: 3vw;
+background-color: white;
+padding-top: 5vh;
+}
+
+#arrow4{
+height: 7vh;
+width: 3vw;
+background-color: white;
+padding-top: 5vh;
+}
+#vk{
+height: 15vh;
+width: 90vw;
+background-color: white;
+
+}
+
+#footer{
+height: 10vh;
+width: 100vw;
+display: flex;
+}
+
+
+#footerlogo{
+height: 10vh;
+width: 70vw;
+padding-left: 16vh;
+background-color:white;
+}
+
+#selector{
+height: 10vh;
+width: 18vw;
+display: flex;
+background-color: white;
+}
+#india{
+height: 8vh;
+width: 9vw;
+padding-top: 2vh;
+background-color: white;
+}
+#country{
+height: 6vh;
+width: 8vw;
+border-radius: 1vh;
+font-size: larger;
+}
+#english{
+height: 8vh;
+width: 8vw;
+padding-top: 2vh;
+background-color: white;
+}
+#language{
+height: 6vh;
+width: 8vw;
+border-radius: 1vh;
+font-size: larger;
+}
+#table{
+border-spacing: 15vh;
+}
+#foot{
+    height: 20vh;
+    width: 95vw;
+    background-color: black;
+    border-radius: 3vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: antiquewhite;
+
+}
